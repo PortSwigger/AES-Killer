@@ -1,0 +1,12 @@
+Uuid: e5f0d9ecba1d4d2c96180ea2717e3cc1
+ExtensionType: 1
+Name: AES Killer, decrypt AES traffic on the fly
+RepoName: aes-killer
+ScreenVersion: 4.0
+SerialVersion: 2
+MinPlatformVersion: 0
+ProOnly: False
+Author: Abdul Wahab
+ShortDescription: Decrypt AES traffic on the fly
+EntryPoint: build/libs/AES_Killer-4.0.jar
+BuildCommand: gradle clean build
